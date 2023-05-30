@@ -1,0 +1,25 @@
+.cardd{
+    /* width: 40%; */
+    height: 40%;
+}
+.collapse{
+    width: 90%;
+    height: 40%;
+}
+.glass{
+    font-size: 1.2vw;
+    width: 90%;
+    margin-left: 5vw;
+}
+#show{
+    margin-left: 9vw;
+}
+.singleCard{
+    margin-left: 40vw;
+    width: 90%;
+    height: 60%;
+}
+.list{
+    margin-left: 2vw;
+    width: 90%;
+}

@@ -1,0 +1,30 @@
+.bigb{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+    gap: 20px;
+}
+
+.card{
+    width: 26%;
+    border-radius: 5vw;
+}
+.cardimg{
+    width: 100%;
+    object-fit: cover;
+    height: 75%;
+    object-position: center;
+    border-top-left-radius: 5vw;
+    border-top-right-radius: 5vw;
+
+}
+.cardtitle{
+    margin-top: 0.9vw;
+    margin-left: 6vw;
+    font-size: 1.2vw;
+}
+#btn{
+    width: 30%;
+    margin-left: 9vw;
+}

@@ -1,0 +1,50 @@
+*{
+  font-family: gilroy;
+}
+.nav-bar{
+    height: 12vh;
+    background-color: rgb(233, 230, 230);
+    width: 100%;
+    display: flex;
+}
+.t1{
+    padding: 1.6vw;
+    font-size: 1.8vw;
+}
+.searchbox{
+    padding: 1vw;
+    width: 20%;
+    height: 8vh;
+    font-size: 1.3vw;
+    font-weight: 600;
+    border: none;
+    margin-top: 0.8vw;
+    border-radius: 2vw;
+    margin-left: 35vw;
+}
+.sbtn{
+    width: 7%;
+    height: 8vh;
+    margin-top: 0.8vw;
+    margin-left: 1vw;
+    letter-spacing: 0.6px;
+    font-size: 1.3vw;
+    font-weight: 700;
+    border: none;
+    background-color: black;
+    color: #fff;
+    border-radius: 1.7vw;
+}
+.sbtn:hover{
+    color: #000000;
+    font-weight: 700;
+    background-color: #858383;
+}
+.dropdown{
+    width: 30%;
+    margin-top: 1.2vw;
+    margin-left: 1vw;
+}
+.row{
+    display: flex;
+}
